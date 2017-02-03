@@ -1,5 +1,5 @@
 #React Boilerplate
-Inspired by HTML5 Boilerplate. Simple setup to immediately start working on your react project without wasting time having to setup the project. This includes the essentials for using Sass, ReactJS, Babel, and Webpack in your web based project.
+Inspired by HTML5 Boilerplate. This is for those who want a simple setup to immediately start working on your ReactJS project without wasting time having to setup the project. This includes the essentials for using Sass, ReactJS, Babel, and Webpack in your web based project.
 
 ##What does it include?
 - autoprefixer: CSS vendor autoprefixer
